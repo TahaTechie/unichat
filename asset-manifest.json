@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/unichat/static/css/main.37448acd.chunk.css",
+    "main.js": "/unichat/static/js/main.5c69e844.chunk.js",
+    "main.js.map": "/unichat/static/js/main.5c69e844.chunk.js.map",
+    "runtime-main.js": "/unichat/static/js/runtime-main.014caeaa.js",
+    "runtime-main.js.map": "/unichat/static/js/runtime-main.014caeaa.js.map",
+    "static/js/2.6cbf288a.chunk.js": "/unichat/static/js/2.6cbf288a.chunk.js",
+    "static/js/2.6cbf288a.chunk.js.map": "/unichat/static/js/2.6cbf288a.chunk.js.map",
+    "index.html": "/unichat/index.html",
+    "precache-manifest.4aefaeb6dd5057f3ecee8d0d35f10b7b.js": "/unichat/precache-manifest.4aefaeb6dd5057f3ecee8d0d35f10b7b.js",
+    "service-worker.js": "/unichat/service-worker.js",
+    "static/css/main.37448acd.chunk.css.map": "/unichat/static/css/main.37448acd.chunk.css.map",
+    "static/js/2.6cbf288a.chunk.js.LICENSE.txt": "/unichat/static/js/2.6cbf288a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.014caeaa.js",
+    "static/js/2.6cbf288a.chunk.js",
+    "static/css/main.37448acd.chunk.css",
+    "static/js/main.5c69e844.chunk.js"
+  ]
+}
